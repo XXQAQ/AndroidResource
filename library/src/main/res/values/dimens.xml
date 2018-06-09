@@ -46,9 +46,14 @@
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
+    <dimen name="radius_minhalf">2dp</dimen>
     <dimen name="radius_less">6dp</dimen>
+    <dimen name="radius_lesshalf">3dp</dimen>
     <dimen name="radius_medium">8dp</dimen>
+    <dimen name="radius_mediumhalf">4dp</dimen>
     <dimen name="radius_more">12dp</dimen>
+    <dimen name="radius_morehalf">6dp</dimen>
     <dimen name="radius_large">20dp</dimen>
+    <dimen name="radius_largehalf">10dp</dimen>
 
 </resources>
