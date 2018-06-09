@@ -25,9 +25,10 @@
     <dimen name="text_xxxlarge">30sp</dimen>
 
     <!--字体行距-->
-    <dimen name="textspacing_min">2sp</dimen>
-    <dimen name="textspacing_less">4sp</dimen>
-    <dimen name="textspacing_medium">6sp</dimen>
+    <dimen name="textspacing_smin">2sp</dimen>
+    <dimen name="textspacing_min">4sp</dimen>
+    <dimen name="textspacing_less">6sp</dimen>
+    <dimen name="textspacing_medium">8sp</dimen>
 
     <!--图标的宽高-->
     <dimen name="icon_smin_both">14dp</dimen>
