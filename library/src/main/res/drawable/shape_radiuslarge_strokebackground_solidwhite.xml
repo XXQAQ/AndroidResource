@@ -3,5 +3,5 @@
     <stroke android:color="@color/background" android:width="1dp"/>
     <corners android:radius="@dimen/radius_large"/>
     <solid android:color="@android:color/white"/>
-    <padding android:left="@dimen/radius_largehalf" android:right="@dimen/radius_largehalf" android:top="@dimen/radius_largehalf" android:bottom="@dimen/radius_largehalf"/>
+    <padding android:left="@dimen/radius_largepadding" android:right="@dimen/radius_largepadding" android:top="@dimen/radius_largepadding" android:bottom="@dimen/radius_largepadding"/>
 </shape>
