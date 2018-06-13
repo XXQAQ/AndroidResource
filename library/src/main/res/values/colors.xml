@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="primary">?colorPrimary</color>
     <!--主背景色-->
     <color name="background">#F4F4F4</color>
     <!--被选中（按下）时的颜色-->
-    <color name="select">#56070707</color>
+    <color name="select">#34070707</color>
 
     <!--常用字体颜色-->
     <color name="textcolor_normal">#494949</color>
