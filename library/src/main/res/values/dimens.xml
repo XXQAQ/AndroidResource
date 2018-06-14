@@ -34,7 +34,7 @@
     <dimen name="icon_smin_both">14dp</dimen>
     <dimen name="icon_min_both">20dp</dimen>
     <dimen name="icon_less_both">28dp</dimen>
-    <dimen name="icon_smediem_both">36dp</dimen>
+    <dimen name="icon_smedium_both">36dp</dimen>
     <dimen name="icon_medium_both">48dp</dimen>
     <dimen name="icon_more_both">56dp</dimen>
     <dimen name="icon_large_both">64dp</dimen>
