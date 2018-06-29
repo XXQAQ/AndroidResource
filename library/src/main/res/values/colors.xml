@@ -3,8 +3,8 @@
 
     <!--win背景色-->
     <color name="background">#F4F4F4</color>
-    <!--深色（比主背景色更深的颜色）-->
-    <color name="dark">#CCCCCC</color>
+    <!--自定义您的第二核心色-->
+    <color name="secondary">#CCCCCC</color>
     <!--被选中（按下）时的颜色-->
     <color name="highlight">#34070707</color>
 
