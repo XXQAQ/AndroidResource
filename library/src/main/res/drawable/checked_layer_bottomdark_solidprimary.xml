@@ -3,6 +3,6 @@
 
     <item android:state_checked="false" android:drawable="@drawable/layer_bottomdark_solidprimary"/>
 
-    <item android:state_checked="true" android:drawable="@color/select"/>
+    <item android:state_checked="true" android:drawable="@color/highlight"/>
 
 </selector>

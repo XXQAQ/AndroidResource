@@ -3,6 +3,6 @@
 
     <item android:state_pressed="false" android:drawable="@drawable/layer_leftbackground_solidprimary"/>
 
-    <item android:state_pressed="true" android:drawable="@color/select"/>
+    <item android:state_pressed="true" android:drawable="@color/highlight"/>
 
 </selector>

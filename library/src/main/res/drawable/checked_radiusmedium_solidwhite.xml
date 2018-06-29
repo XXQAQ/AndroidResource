@@ -3,6 +3,6 @@
 
     <item android:state_checked="false" android:drawable="@drawable/shape_radiusmedium_solidwhite"/>
 
-    <item android:state_checked="true" android:drawable="@drawable/shape_radiusmedium_solidselect"/>
+    <item android:state_checked="true" android:drawable="@drawable/shape_radiusmedium_solidhighlight"/>
 
 </selector>

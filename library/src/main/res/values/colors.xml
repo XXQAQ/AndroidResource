@@ -6,7 +6,7 @@
     <!--深色（比主背景色更深的颜色）-->
     <color name="dark">#CCCCCC</color>
     <!--被选中（按下）时的颜色-->
-    <color name="select">#34070707</color>
+    <color name="highlight">#34070707</color>
 
 
     <!--常用字体颜色-->

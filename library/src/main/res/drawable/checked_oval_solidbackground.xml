@@ -3,6 +3,6 @@
 
     <item android:state_checked="false" android:drawable="@drawable/shape_oval_solidbackground"/>
 
-    <item android:state_checked="true" android:drawable="@drawable/shape_oval_solidselect"/>
+    <item android:state_checked="true" android:drawable="@drawable/shape_oval_solidhighlight"/>
 
 </selector>
