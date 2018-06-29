@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!--win背景色-->
+    <!--背景色-->
     <color name="background">#F4F4F4</color>
     <!--自定义您的第二核心色-->
     <color name="secondary">#CCCCCC</color>

@@ -53,14 +53,14 @@
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
-    <dimen name="radius_minpadding">2dp</dimen>
+    <dimen name="radius_minpadding">1dp</dimen>
     <dimen name="radius_less">6dp</dimen>
-    <dimen name="radius_lesspadding">3dp</dimen>
+    <dimen name="radius_lesspadding">2dp</dimen>
     <dimen name="radius_medium">8dp</dimen>
-    <dimen name="radius_mediumpadding">4dp</dimen>
+    <dimen name="radius_mediumpadding">3dp</dimen>
     <dimen name="radius_more">12dp</dimen>
-    <dimen name="radius_morepadding">6dp</dimen>
+    <dimen name="radius_morepadding">4dp</dimen>
     <dimen name="radius_large">20dp</dimen>
-    <dimen name="radius_largepadding">10dp</dimen>
+    <dimen name="radius_largepadding">8dp</dimen>
 
 </resources>
