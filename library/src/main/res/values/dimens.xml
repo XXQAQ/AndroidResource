@@ -4,7 +4,6 @@
     <dimen name="distance_min">4dp</dimen>
     <dimen name="distance_sless">6dp</dimen>
     <dimen name="distance_less">8dp</dimen>
-    <dimen name="distance_smedium">10dp</dimen>
     <dimen name="distance_medium">12dp</dimen>
     <dimen name="distance_smore">14dp</dimen>
     <dimen name="distance_more">16dp</dimen>
@@ -22,7 +21,7 @@
     <dimen name="text_large">18sp</dimen>
     <dimen name="text_xlarge">20sp</dimen>
     <dimen name="text_xxlarge">24sp</dimen>
-    <dimen name="text_xxxlarge">30sp</dimen>
+    <dimen name="text_xxxlarge">32sp</dimen>
 
     <!--字体行距-->
     <dimen name="textspacing_smin">2sp</dimen>
