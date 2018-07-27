@@ -66,6 +66,7 @@
     <dimen name="shape_radius">@dimen/radius_large</dimen>
     <dimen name="shape_radius_padding">@dimen/radius_largepadding</dimen>
     <dimen name="shape_stroke_width">@dimen/radius_largepadding</dimen>
+    <dimen name="shape_layer_width">1px</dimen>
 
 
 
