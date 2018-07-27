@@ -62,4 +62,11 @@
     <dimen name="radius_large">20dp</dimen>
     <dimen name="radius_largepadding">8dp</dimen>
 
+    <!--shape专用-->
+    <dimen name="shape_radius">@dimen/radius_large</dimen>
+    <dimen name="shape_radius_padding">@dimen/radius_largepadding</dimen>
+    <dimen name="shape_stroke_width">@dimen/radius_largepadding</dimen>
+
+
+
 </resources>
