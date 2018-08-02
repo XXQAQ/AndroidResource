@@ -10,11 +10,13 @@
     <!--高亮色-->
     <color name="highlight">#23070707</color>
 
-    <!--常用字体颜色-->
+
+    <!--淡色字体-->
+    <color name="text_weak">#ADADAD</color>
+    <!--常用字色-->
     <color name="text_normal">#494949</color>
-    <!--比常用字体更醒目的颜色-->
-    <color name="text_black">#070707</color>
-    <!--提示字体颜色-->
-    <color name="text_hint">#ADADAD</color>
+    <!--深色字体-->
+    <color name="text_strong">#070707</color>
+
 
 </resources>
