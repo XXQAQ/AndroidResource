@@ -11,7 +11,7 @@
     <item android:id="@android:id/secondaryProgress">
         <clip>
             <shape>
-                <solid android:color="?colorPrimaryDark" />
+                <solid android:color="@color/colorSecondary" />
             </shape>
         </clip>
     </item>
@@ -20,7 +20,7 @@
     <item android:id="@android:id/progress">
         <clip>
             <shape>
-                <solid android:color="?colorPrimary" />
+                <solid android:color="@color/colorPrimary" />
             </shape>
         </clip>
     </item>
