@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <!-- 边框颜色值 -->
+        <shape>
+            <solid android:color="@color/colorPrimary" />
+        </shape>
+    </item>
+
+    <item android:top="@dimen/layer_width" android:left="@dimen/layer_width" android:right="@dimen/layer_width">   <!--设置边框宽度-->
+        <!--主体颜色-->
+        <shape
+            android:shape="rectangle">
+            <solid android:color="@color/colorSecondary"/>
+        </shape>
+    </item>
+</layer-list>

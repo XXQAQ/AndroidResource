@@ -1,0 +1,71 @@
+<resources>
+
+    <!--标准间距-->
+    <dimen name="distance_min">4dp</dimen>
+    <dimen name="distance_sless">6dp</dimen>
+    <dimen name="distance_less">8dp</dimen>
+    <dimen name="distance_smedium">10dp</dimen>
+    <dimen name="distance_medium">12dp</dimen>
+    <dimen name="distance_smore">14dp</dimen>
+    <dimen name="distance_more">16dp</dimen>
+    <dimen name="distance_large">24dp</dimen>
+    <dimen name="distance_xlarge">32dp</dimen>
+    <dimen name="distance_xxlarge">40dp</dimen>
+    <dimen name="distance_xxxlarge">48dp</dimen>
+
+    <!--文字大小-->
+    <dimen name="text_ssmin">8sp</dimen>
+    <dimen name="text_smin">9sp</dimen>
+    <dimen name="text_min">10sp</dimen>
+    <dimen name="text_less">12sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_more">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_xlarge">20sp</dimen>
+    <dimen name="text_xxlarge">24sp</dimen>
+    <dimen name="text_xxxlarge">32sp</dimen>
+
+    <!--字体行距-->
+    <dimen name="textspacing_smin">2sp</dimen>
+    <dimen name="textspacing_min">4sp</dimen>
+    <dimen name="textspacing_less">6sp</dimen>
+    <dimen name="textspacing_medium">8sp</dimen>
+
+    <!--图标的宽高-->
+    <dimen name="icon_smin_both">14dp</dimen>
+    <dimen name="icon_min_both">20dp</dimen>
+    <dimen name="icon_less_both">28dp</dimen>
+    <dimen name="icon_smedium_both">36dp</dimen>
+    <dimen name="icon_medium_both">48dp</dimen>
+    <dimen name="icon_more_both">56dp</dimen>
+    <dimen name="icon_large_both">64dp</dimen>
+    <dimen name="icon_xlarge_both">72dp</dimen>
+    <dimen name="icon_xxlarge_both">80dp</dimen>
+    <dimen name="icon_xxxlarge_both">96dp</dimen>
+
+    <!--actionBar的高度-->
+    <dimen name="actionbar_height_min">48dp</dimen>
+    <dimen name="actionbar_height_less">56dp</dimen>
+    <dimen name="actionbar_height_medium">64dp</dimen>
+
+    <!--tab建议高度-->
+    <dimen name="tab_height_min">40dp</dimen>
+    <dimen name="tab_height_less">48dp</dimen>
+
+    <!--圆角幅度-->
+    <dimen name="radius_min">4dp</dimen>
+    <dimen name="radius_min_padding">1dp</dimen>
+    <dimen name="radius_less">6dp</dimen>
+    <dimen name="radius_less_padding">2dp</dimen>
+    <dimen name="radius_medium">8dp</dimen>
+    <dimen name="radius_medium_padding">3dp</dimen>
+    <dimen name="radius_more">12dp</dimen>
+    <dimen name="radius_more_padding">4dp</dimen>
+    <dimen name="radius_large">20dp</dimen>
+    <dimen name="radius_large_padding">8dp</dimen>
+
+    <!--shape专用-->
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="layer_width">1px</dimen>
+
+</resources>
