@@ -54,19 +54,17 @@
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
-    <dimen name="radius_minpadding">1dp</dimen>
+    <dimen name="radius_min_padding">1dp</dimen>
     <dimen name="radius_less">6dp</dimen>
-    <dimen name="radius_lesspadding">2dp</dimen>
+    <dimen name="radius_less_padding">2dp</dimen>
     <dimen name="radius_medium">8dp</dimen>
-    <dimen name="radius_mediumpadding">3dp</dimen>
+    <dimen name="radius_medium_padding">3dp</dimen>
     <dimen name="radius_more">12dp</dimen>
-    <dimen name="radius_morepadding">4dp</dimen>
+    <dimen name="radius_more_padding">4dp</dimen>
     <dimen name="radius_large">20dp</dimen>
-    <dimen name="radius_largepadding">8dp</dimen>
+    <dimen name="radius_large_padding">8dp</dimen>
 
-    <!--shape专用-->
-    <dimen name="shape_radius">@dimen/radius_large</dimen>
-    <dimen name="shape_radius_padding">@dimen/radius_largepadding</dimen>
+    <!--shape边框尺寸-->
     <dimen name="shape_stroke_width">1dp</dimen>
     <dimen name="shape_layer_width">1px</dimen>
 
