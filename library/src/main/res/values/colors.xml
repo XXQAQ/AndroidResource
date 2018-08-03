@@ -9,7 +9,7 @@
     <!--使用最多的颜色，亮色主题下等同于white-->
     <color name="colorWidely">@android:color/white</color>
     <!--建议在您的项目自定义您的控件背景色-->
-    <color name="background">#F4F4F4</color>
+    <color name="colorBackground">#F4F4F4</color>
     <!--高亮色-->
     <color name="highlight">#23070707</color>
 
