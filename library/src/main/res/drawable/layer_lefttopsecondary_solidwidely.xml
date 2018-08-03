@@ -4,7 +4,7 @@
     <item>
         <!-- 边框颜色值 -->
         <shape>
-            <solid android:color="@color/secondary" />
+            <solid android:color="@color/colorSecondary" />
         </shape>
     </item>
 
