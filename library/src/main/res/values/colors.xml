@@ -7,8 +7,8 @@
     <!--建议在您的项目自定义您的辅色-->
     <color name="colorSecondary">@android:color/black</color>
     <!--使用最多的颜色，亮色主题下等同于white-->
-    <color name="widely">@android:color/white</color>
-    <!--建议在您的项目自定义您的背景色-->
+    <color name="colorWidely">@android:color/white</color>
+    <!--建议在您的项目自定义您的控件背景色-->
     <color name="background">#F4F4F4</color>
     <!--高亮色-->
     <color name="highlight">#23070707</color>
