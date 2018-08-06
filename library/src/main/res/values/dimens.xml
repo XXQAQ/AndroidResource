@@ -8,10 +8,10 @@
     <dimen name="distance_medium">12dp</dimen>
     <dimen name="distance_smore">14dp</dimen>
     <dimen name="distance_more">16dp</dimen>
-    <dimen name="distance_large">24dp</dimen>
-    <dimen name="distance_xlarge">32dp</dimen>
-    <dimen name="distance_xxlarge">40dp</dimen>
-    <dimen name="distance_xxxlarge">48dp</dimen>
+    <dimen name="distance_max">24dp</dimen>
+    <dimen name="distance_xmax">32dp</dimen>
+    <dimen name="distance_xxmax">40dp</dimen>
+    <dimen name="distance_xxxmax">48dp</dimen>
 
     <!--文字大小-->
     <dimen name="text_ssmin">8sp</dimen>
@@ -20,28 +20,29 @@
     <dimen name="text_less">12sp</dimen>
     <dimen name="text_medium">14sp</dimen>
     <dimen name="text_more">16sp</dimen>
-    <dimen name="text_large">18sp</dimen>
-    <dimen name="text_xlarge">20sp</dimen>
-    <dimen name="text_xxlarge">24sp</dimen>
-    <dimen name="text_xxxlarge">32sp</dimen>
+    <dimen name="text_max">18sp</dimen>
+    <dimen name="text_xmax">20sp</dimen>
+    <dimen name="text_xxmax">24sp</dimen>
+    <dimen name="text_xxxmax">32sp</dimen>
 
     <!--字体行距-->
-    <dimen name="textspacing_smin">2sp</dimen>
-    <dimen name="textspacing_min">4sp</dimen>
-    <dimen name="textspacing_less">6sp</dimen>
-    <dimen name="textspacing_medium">8sp</dimen>
+    <dimen name="textspacing_min">2sp</dimen>
+    <dimen name="textspacing_less">4sp</dimen>
+    <dimen name="textspacing_medium">6sp</dimen>
+    <dimen name="textspacing_more">8sp</dimen>
+    <dimen name="textspacing_max">12sp</dimen>
 
     <!--图标的宽高-->
-    <dimen name="icon_smin_both">14dp</dimen>
+    <dimen name="icon_smin_both">16dp</dimen>
     <dimen name="icon_min_both">20dp</dimen>
     <dimen name="icon_less_both">28dp</dimen>
     <dimen name="icon_smedium_both">36dp</dimen>
     <dimen name="icon_medium_both">48dp</dimen>
     <dimen name="icon_more_both">56dp</dimen>
-    <dimen name="icon_large_both">64dp</dimen>
-    <dimen name="icon_xlarge_both">72dp</dimen>
-    <dimen name="icon_xxlarge_both">80dp</dimen>
-    <dimen name="icon_xxxlarge_both">96dp</dimen>
+    <dimen name="icon_max_both">64dp</dimen>
+    <dimen name="icon_xmax_both">72dp</dimen>
+    <dimen name="icon_xxmax_both">80dp</dimen>
+    <dimen name="icon_xxxmax_both">96dp</dimen>
 
     <!--actionBar的高度-->
     <dimen name="actionbar_height_min">48dp</dimen>
@@ -51,6 +52,7 @@
     <!--tab建议高度-->
     <dimen name="tab_height_min">40dp</dimen>
     <dimen name="tab_height_less">48dp</dimen>
+    <dimen name="tab_height_medium">56dp</dimen>
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
@@ -61,10 +63,10 @@
     <dimen name="radius_medium_padding">3dp</dimen>
     <dimen name="radius_more">12dp</dimen>
     <dimen name="radius_more_padding">4dp</dimen>
-    <dimen name="radius_large">20dp</dimen>
-    <dimen name="radius_large_padding">8dp</dimen>
+    <dimen name="radius_max">20dp</dimen>
+    <dimen name="radius_max_padding">8dp</dimen>
 
-    <!--shape专用-->
+    <!--一些边框的长度-->
     <dimen name="stroke_width">1dp</dimen>
     <dimen name="layer_width">1px</dimen>
 

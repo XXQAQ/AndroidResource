@@ -3,7 +3,7 @@
 
     <item android:id="@android:id/background">
         <shape>
-            <corners android:radius="@dimen/radius_large" />
+            <corners android:radius="@dimen/radius_max" />
             <solid android:color="@color/colorBackground" />
         </shape>
     </item>
@@ -12,7 +12,7 @@
     <item android:id="@android:id/secondaryProgress">
         <clip>
             <shape>
-                <corners android:radius="@dimen/radius_large" />
+                <corners android:radius="@dimen/radius_max" />
                 <solid android:color="@color/colorSecondary" />
             </shape>
         </clip>
@@ -22,7 +22,7 @@
     <item android:id="@android:id/progress">
         <clip>
             <shape>
-                <corners android:radius="@dimen/radius_large" />
+                <corners android:radius="@dimen/radius_max" />
                 <solid android:color="@color/colorPrimary" />
             </shape>
         </clip>
