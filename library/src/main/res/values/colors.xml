@@ -5,13 +5,13 @@
     <color name="colorWidely">@android:color/white</color>
     <!--建议在您的项目中自定义主色-->
     <color name="colorPrimary"></color>
-    <!--建议在您的项目自定义您的辅色-->
+    <!--建议在您的项目中自定以辅色-->
     <color name="colorSecondary">@android:color/black</color>
     <!--建议在您的项目自定义您的控件背景色-->
     <color name="colorBackground">#F4F4F4</color>
     <!--高亮色-->
     <color name="highlight">#23070707</color>
-    <!--禁用状态颜色-->
+    <!--禁用色-->
     <color name="disable">#E5E5E5</color>
 
     <!--淡色字体-->
