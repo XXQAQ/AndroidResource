@@ -14,8 +14,8 @@
     <dimen name="distance_xxxmax">48dp</dimen>
 
     <!--文字大小-->
-    <dimen name="text_ssmin">8sp</dimen>
-    <dimen name="text_smin">9sp</dimen>
+    <dimen name="text_xxmin">8sp</dimen>
+    <dimen name="text_xmin">9sp</dimen>
     <dimen name="text_min">10sp</dimen>
     <dimen name="text_less">12sp</dimen>
     <dimen name="text_medium">14sp</dimen>
@@ -33,7 +33,7 @@
     <dimen name="textspacing_max">12sp</dimen>
 
     <!--图标的宽高-->
-    <dimen name="icon_smin_both">16dp</dimen>
+    <dimen name="icon_xmin_both">16dp</dimen>
     <dimen name="icon_min_both">20dp</dimen>
     <dimen name="icon_less_both">28dp</dimen>
     <dimen name="icon_smedium_both">36dp</dimen>
