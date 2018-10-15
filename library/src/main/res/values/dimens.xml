@@ -2,11 +2,11 @@
 
     <!--标准间距-->
     <dimen name="distance_min">4dp</dimen>
-    <dimen name="distance_sless">6dp</dimen>
+    <dimen name="distance_xless">6dp</dimen>
     <dimen name="distance_less">8dp</dimen>
-    <dimen name="distance_smedium">10dp</dimen>
+    <dimen name="distance_xmedium">10dp</dimen>
     <dimen name="distance_medium">12dp</dimen>
-    <dimen name="distance_smore">14dp</dimen>
+    <dimen name="distance_xmore">14dp</dimen>
     <dimen name="distance_more">16dp</dimen>
     <dimen name="distance_max">24dp</dimen>
     <dimen name="distance_xmax">32dp</dimen>
@@ -14,7 +14,6 @@
     <dimen name="distance_xxxmax">48dp</dimen>
 
     <!--文字大小-->
-    <dimen name="text_xxmin">8sp</dimen>
     <dimen name="text_xmin">9sp</dimen>
     <dimen name="text_min">10sp</dimen>
     <dimen name="text_less">12sp</dimen>
@@ -36,7 +35,7 @@
     <dimen name="icon_xmin_both">16dp</dimen>
     <dimen name="icon_min_both">20dp</dimen>
     <dimen name="icon_less_both">28dp</dimen>
-    <dimen name="icon_smedium_both">36dp</dimen>
+    <dimen name="icon_xmedium_both">36dp</dimen>
     <dimen name="icon_medium_both">48dp</dimen>
     <dimen name="icon_more_both">56dp</dimen>
     <dimen name="icon_max_both">64dp</dimen>
