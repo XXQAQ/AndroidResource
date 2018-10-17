@@ -13,10 +13,10 @@
     <color name="highlight">#23070707</color>
     <!--禁用色-->
     <color name="disable">#E5E5E5</color>
-    <!--黑玻璃色-->
-    <color name="whiteGlass">#45000000</color>
     <!--白玻璃色-->
-    <color name="blackGlass">#45ffffff</color>
+    <color name="whiteGlass">#45ffffff</color>
+    <!--黑玻璃色-->
+    <color name="blackGlass">#45000000</color>
 
     <!--淡色字体-->
     <color name="text_weak">#ADADAD</color>
