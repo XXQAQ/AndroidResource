@@ -6,7 +6,6 @@
     <dimen name="distance_less">8dp</dimen>
     <dimen name="distance_xmedium">10dp</dimen>
     <dimen name="distance_medium">12dp</dimen>
-    <dimen name="distance_xmore">14dp</dimen>
     <dimen name="distance_more">16dp</dimen>
     <dimen name="distance_max">24dp</dimen>
     <dimen name="distance_xmax">32dp</dimen>
@@ -28,14 +27,14 @@
     <dimen name="textspacing_min">2sp</dimen>
     <dimen name="textspacing_less">4sp</dimen>
     <dimen name="textspacing_medium">6sp</dimen>
-    <dimen name="textspacing_more">8sp</dimen>
-    <dimen name="textspacing_max">12sp</dimen>
 
     <!--图标的宽高-->
     <dimen name="icon_xmin_both">16dp</dimen>
     <dimen name="icon_min_both">20dp</dimen>
+    <dimen name="icon_xless_both">24dp</dimen>
     <dimen name="icon_less_both">28dp</dimen>
-    <dimen name="icon_xmedium_both">36dp</dimen>
+    <dimen name="icon_xxmedium_both">36dp</dimen>
+    <dimen name="icon_xmedium_both">40dp</dimen>
     <dimen name="icon_medium_both">48dp</dimen>
     <dimen name="icon_more_both">56dp</dimen>
     <dimen name="icon_max_both">64dp</dimen>
