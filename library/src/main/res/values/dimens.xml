@@ -11,7 +11,8 @@
     <dimen name="distance_xmax">32dp</dimen>
     <dimen name="distance_xxmax">40dp</dimen>
     <dimen name="distance_xxxmax">48dp</dimen>
-
+    <dimen name="distance_xxxxmax">56dp</dimen>
+    <dimen name="distance_xxxxxmax">64dp</dimen>
     <!--文字大小-->
     <dimen name="text_xmin">9sp</dimen>
     <dimen name="text_min">10sp</dimen>
