@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/rect_solidprimary"/>
+    <item android:top="@dimen/layer_width" android:left="@dimen/layer_width" android:drawable="@drawable/rect_solidwidely"/>
+</layer-list>
