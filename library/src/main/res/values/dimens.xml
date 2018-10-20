@@ -65,5 +65,6 @@
     <!--一些边框的长度-->
     <dimen name="stroke_width">1dp</dimen>
     <dimen name="layer_width">1px</dimen>
+    <dimen name="layer_minuswidth">-1px</dimen>
 
 </resources>
