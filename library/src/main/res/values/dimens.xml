@@ -65,6 +65,9 @@
     <!--一些边框的长度-->
     <dimen name="stroke_width">1dp</dimen>
     <dimen name="layer_width">1px</dimen>
-    <dimen name="layer_minuswidth">-1px</dimen>
+    <dimen name="layer_minuswidth">-3px</dimen>
+
+    <!--默认selector动画时长-->
+    <dimen name="duration_selector">50</dimen>
 
 </resources>

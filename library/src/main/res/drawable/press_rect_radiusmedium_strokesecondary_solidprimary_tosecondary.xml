@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" android:enterFadeDuration="@android:integer/config_shortAnimTime" android:exitFadeDuration="@android:integer/config_shortAnimTime">
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:enterFadeDuration="@dimen/duration_selector" android:exitFadeDuration="@dimen/duration_selector">
     <item android:state_hovered="true" android:drawable="@drawable/rect_radiusmedium_solidsecondary"/>
     <item android:state_pressed="true" android:drawable="@drawable/rect_radiusmedium_solidsecondary"/>
     <item android:drawable="@drawable/rect_radiusmedium_strokesecondary_solidprimary"/>
