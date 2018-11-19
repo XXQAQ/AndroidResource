@@ -68,6 +68,6 @@
     <dimen name="layer_minuswidth">-3px</dimen>
 
     <!--默认selector动画时长-->
-    <dimen name="duration_selector">50</dimen>
+    <integer name="duration_selector">50</integer>
 
 </resources>
