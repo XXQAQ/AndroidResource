@@ -2,11 +2,11 @@
 <resources>
 
     <!--使用最多的颜色，亮色主题下等同于white-->
-    <color name="colorWidely">@android:color/white</color>
+    <color name="colorWidely">@color/white</color>
     <!--建议在您的项目中自定义主色-->
     <color name="colorPrimary"></color>
     <!--建议在您的项目中自定以辅色-->
-    <color name="colorSecondary">@android:color/black</color>
+    <color name="colorSecondary"></color>
     <!--建议在您的项目自定义您的控件背景色-->
     <color name="colorBackground">#F4F4F4</color>
     <!--高亮色-->
@@ -24,5 +24,10 @@
     <color name="text_normal">#494949</color>
     <!--深色字体-->
     <color name="text_strong">#070707</color>
+
+    <!--常用颜色-->
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="transparent">@android:color/transparent</color>
 
 </resources>
