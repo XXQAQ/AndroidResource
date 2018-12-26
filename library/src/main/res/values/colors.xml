@@ -6,7 +6,7 @@
     <!--建议在您的项目中自定义主色-->
     <color name="colorPrimary"></color>
     <!--建议在您的项目中自定以辅色-->
-    <color name="colorSecondary"></color>
+    <color name="colorSecondary">@color/black</color>
     <!--建议在您的项目自定义您的控件背景色-->
     <color name="colorBackground">#F4F4F4</color>
     <!--高亮色-->
