@@ -11,6 +11,17 @@
     <!--建议在您的项目自定义您的控件背景色-->
     <color name="colorBackground">#F4F4F4</color>
 
+    <!--常用颜色-->
+    <!--高亮色-->
+    <color name="highlight">#23070707</color>
+    <!--白玻璃-->
+    <color name="whiteGlass">#45ffffff</color>
+    <!--黑玻璃-->
+    <color name="blackGlass">#78000000</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+
     <!--字体颜色-->
     <!--淡色字体-->
     <color name="text_weak">#ADADAD</color>
@@ -18,17 +29,5 @@
     <color name="text_normal">#494949</color>
     <!--深色字体-->
     <color name="text_strong">#070707</color>
-
-    <!--常用颜色-->
-    <!--高亮色-->
-    <color name="highlight">#23070707</color>
-    <!--白玻璃-->
-    <color name="whiteGlass">#45ffffff</color>
-    <!--黑玻璃-->
-    <color name="blackGlass">#56000000</color>
-    <color name="transparent">@android:color/transparent</color>
-    <color name="white">@android:color/white</color>
-    <color name="black">@android:color/black</color>
-
 
 </resources>
