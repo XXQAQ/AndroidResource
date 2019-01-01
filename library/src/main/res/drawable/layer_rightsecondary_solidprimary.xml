@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:drawable="@drawable/rect_solidsecondary"/>
-    <item android:right="@dimen/layer_width" android:drawable="@drawable/rect_solidprimary"/>
+    <item android:top="@dimen/layer_minuswidth" android:bottom="@dimen/layer_minuswidth" android:left="@dimen/layer_minuswidth">
+        <shape android:shape="rectangle">
+            <stroke android:color="@color/colorSecondary" android:width="@dimen/layer_width"/>
+            <solid android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
 </layer-list>
