@@ -31,17 +31,17 @@
     <dimen name="textspacing_medium">6sp</dimen>
 
     <!--图标的宽高-->
-    <dimen name="icon_xmin_both">16dp</dimen>
-    <dimen name="icon_min_both">20dp</dimen>
-    <dimen name="icon_xless_both">24dp</dimen>
-    <dimen name="icon_less_both">28dp</dimen>
-    <dimen name="icon_xmedium_both">36dp</dimen>
-    <dimen name="icon_medium_both">48dp</dimen>
-    <dimen name="icon_more_both">56dp</dimen>
-    <dimen name="icon_max_both">64dp</dimen>
-    <dimen name="icon_xmax_both">72dp</dimen>
-    <dimen name="icon_xxmax_both">80dp</dimen>
-    <dimen name="icon_xxxmax_both">96dp</dimen>
+    <dimen name="icon_xmin">16dp</dimen>
+    <dimen name="icon_min">20dp</dimen>
+    <dimen name="icon_xless">24dp</dimen>
+    <dimen name="icon_less">28dp</dimen>
+    <dimen name="icon_xmedium">36dp</dimen>
+    <dimen name="icon_medium">48dp</dimen>
+    <dimen name="icon_more">56dp</dimen>
+    <dimen name="icon_max">64dp</dimen>
+    <dimen name="icon_xmax">72dp</dimen>
+    <dimen name="icon_xxmax">80dp</dimen>
+    <dimen name="icon_xxxmax">96dp</dimen>
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
@@ -55,18 +55,16 @@
     <dimen name="radius_max">20dp</dimen>
     <dimen name="radius_padding_max">6dp</dimen>
 
-    <!--actionBar的高度-->
-    <dimen name="actionbar_height_min">48dp</dimen>
+    <!--ActionBar(Toolbar)高度-->
     <dimen name="actionbar_height">48dp</dimen>
 
-    <!--tab高度-->
-    <dimen name="tab_height_min">40dp</dimen>
+    <!--Tab高度-->
     <dimen name="tab_height">40dp</dimen>
 
-    <!--一些边框的长度-->
+    <!--一边框宽度-->
     <dimen name="stroke_width">1dp</dimen>
-    <dimen name="layer_width">1px</dimen>
-    <dimen name="layer_minuswidth">-3px</dimen>
+    <dimen name="layer_stroke_width">1px</dimen>
+    <dimen name="layer_stroke_minuswidth">-3px</dimen>
 
     <!--默认selector动画时长-->
     <integer name="duration_selector">50</integer>
