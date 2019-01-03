@@ -64,7 +64,7 @@
     <!--一边框宽度-->
     <dimen name="stroke_width">1dp</dimen>
     <dimen name="layer_stroke_width">1px</dimen>
-    <dimen name="layer_stroke_minuswidth">-3px</dimen>
+    <dimen name="layer_stroke_minusWidth">-3px</dimen>
 
     <!--默认selector动画时长-->
     <integer name="selector_duration">50</integer>
