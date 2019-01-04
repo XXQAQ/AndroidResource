@@ -14,15 +14,18 @@
     <!--常用颜色-->
     <!--高亮色-->
     <color name="highlight">#23070707</color>
+    <!--透明色-->
+    <color name="transparent">@android:color/transparent</color>
+    <!--分割色-->
+    <color name="divider">#DBDBDB</color>
     <!--白玻璃-->
     <color name="whiteGlass">#45ffffff</color>
     <!--黑玻璃-->
     <color name="blackGlass">#78000000</color>
-    <color name="divider"></color>
-    <color name="transparent">@android:color/transparent</color>
+    <!--白色-->
     <color name="white">@android:color/white</color>
+    <!--黑色-->
     <color name="black">@android:color/black</color>
-
 
     <!--字体颜色-->
     <!--淡色字体-->
