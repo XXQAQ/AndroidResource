@@ -1,6 +1,7 @@
 <resources>
 
     <!--标准间距-->
+    <dimen name="distance_xmin">2dp</dimen>
     <dimen name="distance_min">4dp</dimen>
     <dimen name="distance_xless">6dp</dimen>
     <dimen name="distance_less">8dp</dimen>
