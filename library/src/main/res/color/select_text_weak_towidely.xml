@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@color/colorWidely" android:state_selected="true" />
     <item android:color="@color/colorWidely" android:state_checked="true" />
-    <item android:color="@color/colorWidely" android:state_hovered="true" />
+    <item android:color="@color/colorWidely" android:state_activated="true" />
     <item android:color="@color/colorWidely" android:state_pressed="true" />
     <item android:color="@color/text_weak"/>
 </selector>
