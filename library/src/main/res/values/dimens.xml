@@ -62,10 +62,10 @@
     <!--Tab高度-->
     <dimen name="tab_height">40dp</dimen>
 
-    <!--一边框宽度-->
-    <dimen name="stroke_width">1dp</dimen>
-    <dimen name="layer_stroke_width">1px</dimen>
-    <dimen name="layer_stroke_minusWidth">-3px</dimen>
+    <!--一边框和分割线的宽度-->
+    <dimen name="stroke_size">1dp</dimen>
+    <dimen name="divider_size">1px</dimen>
+    <dimen name="divider_minusSize">-3px</dimen>
 
     <!--selector渐入渐出默认动画时长-->
     <integer name="selector_duration">0</integer>

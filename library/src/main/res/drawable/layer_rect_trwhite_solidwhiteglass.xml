@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:bottom="@dimen/layer_stroke_minusWidth" android:left="@dimen/layer_stroke_minusWidth">
+    <item android:bottom="@dimen/divider_minusSize" android:left="@dimen/divider_minusSize">
         <shape android:shape="rectangle">
-            <stroke android:color="@color/white" android:width="@dimen/layer_stroke_width"/>
+            <stroke android:color="@color/white" android:width="@dimen/divider_size"/>
             <solid android:color="@color/whiteGlass"/>
         </shape>
     </item>
