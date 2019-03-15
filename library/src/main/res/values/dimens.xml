@@ -1,19 +1,19 @@
 <resources>
 
     <!--标准间距-->
-    <dimen name="distance_xmin">2dp</dimen>
-    <dimen name="distance_min">4dp</dimen>
-    <dimen name="distance_xless">6dp</dimen>
-    <dimen name="distance_less">8dp</dimen>
-    <dimen name="distance_xmedium">10dp</dimen>
-    <dimen name="distance_medium">12dp</dimen>
-    <dimen name="distance_more">16dp</dimen>
-    <dimen name="distance_max">24dp</dimen>
-    <dimen name="distance_xmax">32dp</dimen>
-    <dimen name="distance_xxmax">40dp</dimen>
-    <dimen name="distance_xxxmax">48dp</dimen>
-    <dimen name="distance_xxxxmax">56dp</dimen>
-    <dimen name="distance_xxxxxmax">64dp</dimen>
+    <dimen name="spacing_xxxmin">2dp</dimen>
+    <dimen name="spacing_xxmin">4dp</dimen>
+    <dimen name="spacing_xmin">6dp</dimen>
+    <dimen name="spacing_min">8dp</dimen>
+    <dimen name="spacing_xless">10dp</dimen>
+    <dimen name="spacing_less">12dp</dimen>
+    <dimen name="spacing_xmedium">14dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_more">24dp</dimen>
+    <dimen name="spacing_max">32dp</dimen>
+    <dimen name="spacing_xmax">40dp</dimen>
+    <dimen name="spacing_xxmax">48dp</dimen>
+    <dimen name="spacing_xxxmax">64dp</dimen>
 
     <!--文字大小-->
     <dimen name="text_xmin">9sp</dimen>
@@ -24,19 +24,21 @@
     <dimen name="text_max">18sp</dimen>
     <dimen name="text_xmax">20sp</dimen>
     <dimen name="text_xxmax">24sp</dimen>
-    <dimen name="text_xxxmax">32sp</dimen>
-
+    <dimen name="text_xxxmax">28sp</dimen>
     <!--字体行距-->
-    <dimen name="textspacing_min">2sp</dimen>
-    <dimen name="textspacing_less">4sp</dimen>
-    <dimen name="textspacing_medium">6sp</dimen>
+    <dimen name="textSpacing_min">1sp</dimen>
+    <dimen name="textSpacing_less">2sp</dimen>
+    <dimen name="textSpacing_medium">3sp</dimen>
+    <dimen name="textSpacing_more">4sp</dimen>
+    <dimen name="textSpacing_max">5sp</dimen>
+    <dimen name="textSpacing_xmax">6sp</dimen>
 
     <!--图标的宽高-->
-    <dimen name="icon_xmin">16dp</dimen>
-    <dimen name="icon_min">20dp</dimen>
-    <dimen name="icon_xless">24dp</dimen>
-    <dimen name="icon_less">28dp</dimen>
-    <dimen name="icon_xmedium">36dp</dimen>
+    <dimen name="icon_xxxmin">12dp</dimen>
+    <dimen name="icon_xxmin">16dp</dimen>
+    <dimen name="icon_xmin">20dp</dimen>
+    <dimen name="icon_min">24dp</dimen>
+    <dimen name="icon_less">36dp</dimen>
     <dimen name="icon_medium">48dp</dimen>
     <dimen name="icon_more">56dp</dimen>
     <dimen name="icon_max">64dp</dimen>
@@ -67,7 +69,7 @@
     <dimen name="divider_size">1px</dimen>
     <dimen name="divider_minusSize">-3px</dimen>
 
-    <!--selector渐入渐出默认动画时长-->
+    <!--selector动画时长-->
     <integer name="selector_duration">0</integer>
 
 </resources>
