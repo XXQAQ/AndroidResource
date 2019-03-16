@@ -35,4 +35,6 @@
     <!--深色字体-->
     <color name="text_strong">#070707</color>
 
+    <!--二级进度条颜色-->
+    <color name="secondaryProgress">@color/whiteGlass</color>
 </resources>
