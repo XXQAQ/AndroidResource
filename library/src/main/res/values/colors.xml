@@ -29,7 +29,7 @@
 
     <!--字体颜色-->
     <!--淡色字体-->
-    <color name="text_weak">#ADADAD</color>
+    <color name="text_weak">#9E9E9E</color>
     <!--常用字色-->
     <color name="text_normal">#494949</color>
     <!--深色字体-->
