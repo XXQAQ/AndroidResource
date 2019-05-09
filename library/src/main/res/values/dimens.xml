@@ -1,7 +1,7 @@
 <resources>
 
     <!--标准间距-->
-    <dimen name="spacing_xxmin">1dp</dimen>
+    <dimen name="spacing_xxmin">2dp</dimen>
     <dimen name="spacing_xmin">4dp</dimen>
     <dimen name="spacing_smin">6dp</dimen>
     <dimen name="spacing_min">8dp</dimen>
@@ -22,10 +22,6 @@
     <dimen name="text_more">16sp</dimen>
     <dimen name="text_max">18sp</dimen>
     <dimen name="text_xmax">22sp</dimen>
-    <!--字体行距-->
-    <!--<dimen name="textSpacing_min">1.2</dimen>-->
-    <!--<dimen name="textSpacing_less">1.5</dimen>-->
-    <!--<dimen name="textSpacing_medium">1.8</dimen>-->
 
     <!--图标宽高-->
     <dimen name="icon_xxmin">12dp</dimen>
@@ -39,18 +35,18 @@
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
-    <dimen name="radius_padding_min">1dp</dimen>
+    <dimen name="radius_padding_min">0.6dp</dimen>
     <dimen name="radius_less">6dp</dimen>
-    <dimen name="radius_padding_less">1.5dp</dimen>
+    <dimen name="radius_padding_less">0.9dp</dimen>
     <dimen name="radius_medium">8dp</dimen>
-    <dimen name="radius_padding_medium">2dp</dimen>
+    <dimen name="radius_padding_medium">1.2dp</dimen>
     <dimen name="radius_more">12dp</dimen>
-    <dimen name="radius_padding_more">3dp</dimen>
+    <dimen name="radius_padding_more">1.8dp</dimen>
     <dimen name="radius_max">20dp</dimen>
-    <dimen name="radius_padding_max">5dp</dimen>
+    <dimen name="radius_padding_max">3dp</dimen>
 
     <!--ActionBar(Toolbar)高度-->
-    <dimen name="actionbar_height">48dp</dimen>
+    <dimen name="actionbar_height">56dp</dimen>
 
     <!--Tab高度-->
     <dimen name="tab_height">40dp</dimen>
