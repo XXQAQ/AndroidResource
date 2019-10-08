@@ -26,12 +26,16 @@
     <!--图标宽高-->
     <dimen name="icon_xxmin">12dp</dimen>
     <dimen name="icon_xmin">16dp</dimen>
+    <dimen name="icon_smin">20dp</dimen>
     <dimen name="icon_min">24dp</dimen>
+    <dimen name="icon_sless">30dp</dimen>
     <dimen name="icon_less">36dp</dimen>
+    <dimen name="icon_smedium">42dp</dimen>
     <dimen name="icon_medium">48dp</dimen>
     <dimen name="icon_more">56dp</dimen>
     <dimen name="icon_max">64dp</dimen>
     <dimen name="icon_xmax">72dp</dimen>
+    <dimen name="icon_xxmax">96dp</dimen>
 
     <!--圆角幅度-->
     <dimen name="radius_min">4dp</dimen>
