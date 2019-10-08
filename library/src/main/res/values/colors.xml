@@ -28,6 +28,9 @@
     <!--深色字体-->
     <color name="text_strong">#070707</color>
 
+    <!--不可用的色值-->
+    <color name="disable">@color/gray</color>
+
     <!--二级进度颜色-->
     <color name="secondaryProgress">@color/whiteGlass</color>
 
